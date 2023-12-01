@@ -1,6 +1,6 @@
 # recipe_roster
 
-A new Flutter project.
+Capstone Repo
 
 ## Getting Started
 
